@@ -9,8 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [ReactJs](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Axios](https://axios-http.com/ptbr/)
-- [Prisma](https://www.prisma.io/)
-- [CORS](https://www.npmjs.com/package/nextjs-cors)
+- [Tailwind](https://tailwindcss.com/)
 
 ## :computer: Projeto
 
