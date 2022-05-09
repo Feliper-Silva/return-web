@@ -30,11 +30,6 @@ npm install
 Crie as chaves no arquivo .env
 
 ```sh
-# iniciar as mirgration
-npx prisma migrate dev
-```
-
-```sh
 # iniciar a aplicação.
 npm run dev
 ```
